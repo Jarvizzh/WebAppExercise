@@ -1,0 +1,140 @@
+body{
+	background-color: #eee;
+}
+.m0{
+	margin: 0;
+}
+.fl{
+	float: left;
+}
+.address{
+	background-image: url(../img/shouhuo/border.png); 
+	width: 100%;
+	height: 2.8rem;
+	background-repeat: no-repeat;
+	background-position: -5rem -5rem;
+	padding: .2rem;
+}
+.addInfo{
+	background-color: #fff;
+	width: 100%;
+	height: 2.4rem;
+}
+.Info{
+	font-size: .35rem;
+	padding:0.16rem .3rem 0rem .3rem; 
+	display: inline-block;
+}
+.normal{
+	margin:0.16rem .3rem 0rem 0rem;
+	font-size: .25rem;
+	border-radius: 50px;
+	width: 1rem;
+	height: .4rem;
+	background-color: #f15352;
+	color: #fff; 
+	display: inline-block;
+	text-align:center;
+	line-height: .4rem;
+}
+.addMessage{
+	padding:0.16rem .3rem 0rem .3rem;
+	font-size: .25rem;
+	line-height: .6rem;
+	background-image: url(../img/shouhuo/bubu.png);
+	background-color: #fff;
+	background-repeat: no-repeat;
+	background-position: right bottom;
+	margin: 0;
+}
+.pay{
+	margin-top:0.16rem;
+	padding:0.25rem .35rem;
+	background: #fff;
+	line-height: .7rem;
+}
+.pPlay{
+	font-size: .3rem;
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: .16rem;
+}
+.pw{
+	font-size: .25rem;
+	color:#727272;
+}
+.sInfo{
+	background: #eee;
+	padding:0rem .35rem;
+}
+.sInfo p{
+	padding-left: .2rem; 
+}
+.bt{
+	border-top: 1px solid #eee;
+}
+.row div{
+	padding: 0
+}
+.l1{
+	line-height: .4rem;
+}
+.p1{
+	font-size: .25rem;
+}
+.l1 span{
+	color:#727272;
+	padding:.1rem .3rem 0rem 0rem;
+	display: inline-block;
+}
+.p2{
+	margin-top: .2rem;
+	color: #f69;
+	font-size: .4rem;
+}
+.m10{
+	margin-top: .25rem;
+}
+.on{
+	width: 1.2rem;
+	height: .65rem;
+}
+.pf{
+	color:#727272;
+	font-size: .25rem;
+}
+.pq{
+	font-size: .3rem;
+	background:#eee; 
+	color:#727272;
+	padding-left:.25rem;
+	text-align: center;
+}
+.pq i{
+	margin-left: .2rem;
+}
+.summay{
+	font-size: .25rem;
+	color:#727272;
+	line-height: .4rem;
+}
+.coin{
+	font-size: .35rem;
+	margin-left: .5rem;
+	margin-bottom: 0;
+}
+
+.pNav{
+	line-height: 1rem;
+	height: 1rem;
+	
+}
+.pc{
+	text-align: center;
+}
+.sure{
+	background: #f69;
+	font-size: .35rem;
+	color: #fff;
+	height: 100%;
+}

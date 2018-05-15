@@ -1,0 +1,38 @@
+.success{
+	width: 75%;
+	margin: 1.5rem auto;
+}
+
+.top span{
+	color: #f69;
+	font-size: .4rem;
+	text-align: center;
+	margin-left: .4rem;
+}
+.top img{
+	width: 1rem;
+	margin-left: .2rem;
+}
+.top span+img{
+	vertical-align: middle;
+}
+.Info{
+	margin-top:1rem; 
+	font-size: .3rem;
+	background: #f7f7f7;
+	border-radius: 25px;
+	padding: .2rem .4rem;
+}
+.Info p{
+	margin: 0;
+	line-height: .5rem;
+}
+.Info p span{
+	color: #999;
+}
+.MyBtn{
+	margin-top: 1rem;
+	border-radius: 50px;
+	border:1px solid #f69;
+	color: #f69;
+}

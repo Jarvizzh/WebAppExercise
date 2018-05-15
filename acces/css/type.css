@@ -1,0 +1,46 @@
+body{
+	background-color: #eee;
+}
+.continer{
+	padding-top:.5rem; 
+	background-color: #fff;
+}
+.col-xs-3 div{
+	overflow: hidden;
+	height: 2rem;
+	width: 1.5rem;
+	text-align: center;
+	display: flex;
+}
+.type img{
+	width: 1.2rem;
+	margin:auto;
+}
+.type{
+	margin: 0;
+}
+.type div{
+	padding: 0;
+	text-align: center;
+}
+.type p{
+	line-height: .5rem;
+	font-size: .3rem;
+}
+.Bnav{
+	text-align: center;
+	background: #fff;
+	padding-top: 0.2rem;
+	font-size: .3rem;
+	margin: 0;
+}
+.Bnav img{
+	height: .5rem;
+	margin-bottom: .1rem;
+}
+.tdn:active{
+	text-decoration: none;
+}
+.c3{
+	color: #333;
+}

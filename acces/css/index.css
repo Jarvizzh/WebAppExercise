@@ -1,0 +1,337 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+	background: #eee;
+	padding-bottom: 7.7rem;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+
+.pb10{
+	background-color: #fff; 
+	padding-bottom:10px
+}
+
+.shopTop{
+	background: #fff;
+	height: 50px;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+}
+.row div{
+	padding: 0;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.local,.localName{
+	line-height: 50px;
+	vertical-align: middle;
+}
+.local{
+	width: 1.5rem;
+	height: 1.9rem;
+}
+.localName{
+	color: #ff6600;
+	margin-left: 3%;
+	font-size: 1.5rem
+}
+
+.b-rau{
+	border: 1px solid #ff6600;
+	border-radius: 50px ;
+	margin-top: .8rem;
+}
+.rau{
+	border: none;
+	border-radius: 50px 0px 0px 50px;
+	background: #FF6600;  
+}
+.rau1{
+	border: none;
+	outline: none;
+}
+.search{
+	background-image: url(../img/index/search1.png);
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-size: 130% 130%;
+	background-repeat: no-repeat;
+}
+.camera{
+	background-image: url(../img/index/camera.png);
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	background-size: 130% 130%;
+	background-repeat: no-repeat;
+}
+.mes{
+	width: 1.9rem;
+	height: 1.9rem;
+}
+.Banner{
+	background: #fff;
+	position: relative;
+}
+.Banner-Dot{
+	position: absolute;
+	bottom: -13px;
+}
+.adv{
+	margin-top: 10px;
+	height: 100%;
+	width: 98%;
+	background: #fff;
+}
+.m0{
+	margin: 0;
+}
+.kill{
+	background-color: #fff; 
+	line-height: 20px;
+	text-align: center;
+	margin-top: 15px; 
+	font-size: 2rem;
+	overflow: hidden;
+}
+
+.k-line{
+	height: 50px;
+	text-align: center;
+
+}
+.M-sha,.p36{
+	vertical-align: middle;
+	line-height: 50px;
+}
+.p36{
+	color: #ff6600;
+	font-size: 2rem;
+	margin-right: 1rem;
+	font-weight: 600;
+}
+.M-sha{
+	background-image: url(../img/index/clock.png);
+	display: inline-block;
+	width: 2.5rem;
+	height: 2.5rem;
+	margin-left: 0.3rem;
+	margin-top: 0.3rem;
+	background-repeat: no-repeat;
+	background-size:2.3rem 2.3rem; 
+}
+.count1,.count2,.count3{
+	width: 1.6rem;
+	height: 1.6rem;
+	background-color: #ccc;
+	display: inline-block;
+	font-size: 1.3rem;
+}
+.p28{
+	margin-top: .6rem;
+	margin-right:1rem; 
+	line-height: 34px;
+	width: 10rem;
+	height: 2.5rem;
+	background-color: #ff6600;
+	border-radius: 50px;
+	font-size: 1.5rem;
+	color: #fff;
+}
+.girl1,.girl2{
+	overflow: hidden;
+	width: 10rem;
+	height: 8rem;
+	position: relative;
+}
+.girl1 img{
+	width: 13rem;
+	height: 13rem;
+}
+.girl2 img{
+	position: absolute;
+	left: -4rem;
+	width: 18rem;
+	height: 18rem;
+}
+.info{
+	width: 5rem;
+	height: 2rem;
+	position: absolute;
+	bottom: 0rem;
+	right: -1rem;
+	border-radius: 50px;
+	text-align: left;
+}
+.pc1{
+	margin-top: .8rem;
+	margin-bottom: 0rem;
+	font-size: 1.6rem;
+}
+.pc2{
+	font-size: 1.4rem;
+	color: #ccc;
+	text-decoration: line-through;
+}
+.p5{
+	margin-left: 0.6rem;
+	margin-top: 0.2rem;
+	text-align: left;
+	color: #fff;
+	font-size: 1rem;
+}
+.m10{
+	margin-top: 10px;
+}
+
+.goodshop{
+	background-image: url(../img/index/find.png);
+	display: inline-block;
+	width: 3.5rem;
+	height: 3rem;
+	margin-left: 2rem;
+	margin-right: 1rem;
+	margin-top: 0.3rem;
+	background-repeat: no-repeat;
+	background-size:3.5rem 3rem; 
+}
+.goodshop,.p36{
+	vertical-align: middle;
+	line-height: 50px;
+}
+
+.goodshop1 img{
+	width: 5rem;
+	height: 5rem;
+}
+.shopList{
+	display: flex;
+	height: 100%;
+}
+.goodshop1{
+	width: 5rem;
+	height: 8rem;
+	flex:1;
+	position: relative;
+	overflow: hidden;
+}
+.info1{
+	width: 5rem;
+	height: 1.5rem;
+	position: absolute;
+	bottom: 2.4rem;
+	right: -1.8rem;
+	border-radius: 50px;
+	text-align: left;
+	font-size: 0.3rem;
+}
+
+.shopName{
+	position: absolute;
+	bottom: -.5rem;
+	left: 1rem;
+	font-size: 1rem;
+	text-align: center;
+}
+.guess{
+	height: 4rem;
+	position: relative;
+}
+.guessHr{
+	position: absolute;
+	top: 50%;
+	border:0;
+	background-color:#ccc;
+	height:1px;
+	width: 100%;
+}
+.guessYou{
+	position: absolute;
+	left: 40%;
+	top: 30%;
+	color: #ccc;
+	display: block;
+	background: #eee;
+	padding: 0rem 1rem;
+	font-size: 1.68rem;
+}
+.guessList{
+	display: flex;
+	background: #fff;
+	justify-content:space-between;
+	height: 26rem;
+}
+.guess-girl{
+	flex:1;
+	height: 25rem;
+	overflow: hidden;
+}
+.g-girl,.g-girl1,.g-girl2,.g-girl3{
+	overflow: hidden;
+	height: 20rem;
+	padding: 2rem;
+	margin: 0rem .5rem;
+}
+
+.g-girl img{
+	position: relative;
+	left: -10rem;
+}
+.g-girl1 img{
+	position: relative;
+	left: 0rem;
+}
+.g-girl2 img{
+	position: relative;
+	left: -17rem;
+}
+.g-girl3 img{
+	position: relative;
+	left: -2rem;
+}
+.gp{
+	font-size: 1.7rem;
+	margin: .2rem;
+}
+.gp-price{
+	font-size: 1.5rem;
+	color: #ff6600;
+}
+.nav-bottom,.pbo{
+	vertical-align: middle;
+}
+.pbo{
+	margin-top: 0.5rem;
+	font-size: 1.2rem;
+	color:#333;
+}
+.nav-bottom{
+	width: 2.7rem;
+	height: 2.7rem;
+}
+.nav-line{
+	padding-top:1.3rem; 
+}
+.backTop{
+	position: fixed;
+	bottom: 8rem;
+	right: 0.5rem;
+	display: none;
+}
+.backTop img{
+	width: 5rem;
+	height: 5rem;
+}
+.tdn:active{
+	text-decoration: none;
+}

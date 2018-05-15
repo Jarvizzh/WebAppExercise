@@ -1,0 +1,35 @@
+.sure{
+	margin-top: 1.5rem;
+	text-align: center;
+}
+p{
+	color: #f69;
+	font-size: .35rem;
+}
+img{
+	width: 2rem;
+	margin-top: .3rem;
+}
+.sBtn{
+	text-align: center;
+	margin-top: .3rem;
+}
+.ping{
+	border-radius: 50px;
+	border: 1px solid #39b9e8;
+	color: #39b9e8;
+	padding: 0.15rem .3rem;
+	margin-right: .2rem;
+	width: 2.5rem;
+	outline: none;
+	background-color: #fff;
+}
+.back{
+	border-radius: 50px;
+	padding: 0.15rem .4rem;
+	border: 1px solid #f69;
+	color: #f69;
+	width: 2.5rem;
+	outline: none;
+	background-color: #fff;
+}

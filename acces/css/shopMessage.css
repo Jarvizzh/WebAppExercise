@@ -1,0 +1,221 @@
+body{
+	background: #eee;
+	padding-bottom: 1rem;
+}
+.fl{
+	float: left;
+}
+.fr{
+	float: right;
+}
+.top{
+	background: #fff;
+}
+.shop1{
+	position: relative;
+}
+.showImg{
+	height: 4.5rem;
+	overflow: hidden;
+}
+.showImg img{
+	width: 100%
+}
+.showMessage{
+	padding: 0.1rem;
+}
+.m0{
+	margin: 0;
+}
+.m1{
+	font-size: .3rem;
+	text-align: left;
+}
+.price{
+	font-size: .4rem;
+	color: #f69;
+}
+.ex-price{
+	font-size: .2rem;
+	color: #aaa;
+	text-decoration: line-through;
+}
+
+.choose,.appraise{
+	margin-top: .1rem;
+	background: #fff;
+	height: 1rem;
+	line-height: 1rem;
+	font-size: .3rem;
+}
+
+.shopInfo{
+	padding-bottom: .1rem;
+	line-height: .2rem;
+	background: #fff;
+	margin-top: .1rem;
+}
+.shop{
+	display: block;
+	width: 1rem;
+	margin-right: .2rem; 
+}
+.shopName{
+	margin-top: .2rem;
+}
+.atten{
+	color: #ccc;
+}
+
+.enterShop{
+	padding:0.1rem 0rem; 
+	border-radius: 50px;
+	width: 2.3rem;
+	border: 1px solid #f69;
+	text-align: center;
+	color: #f69;
+	margin-top:.2rem; 
+	margin-bottom: .2rem;
+}
+.lookAll{
+	text-align: center;
+	color: #aaa;
+	display: inline-block;
+	margin-left: .3rem;
+	text-decoration: underline;
+}
+.more{
+	position: relative;
+	text-align: center;
+	height: .7rem;
+
+}
+.lineMore{
+	width: 100%;
+	height: 0.02rem;
+	border:0;
+	background-color: #aaa;
+	position: absolute;
+	top: 50%;
+}
+.pmore{
+	position: absolute;
+	top: 30%;
+	left: 25%;
+	width: 3.1rem;
+	background: #eee;
+	padding: 0rem .1rem;
+	font-size: .3rem;
+	color: #aaa;
+}
+.showGirl{
+	height: 7rem;
+	overflow: hidden;
+}
+.showGirl img{
+	height: 7rem;
+}
+.nav-bottom{
+	text-align: center;
+	height: 1rem;
+	z-index: 0;
+}
+.bottom-line{
+	line-height: 1rem;
+} 
+
+.pbnav{
+	background: #fd95b8;
+	color:#fff;
+	font-size: .3rem;
+}
+.pbnav1{
+	background: #f69;
+	color:#fff;
+	font-size: .3rem;
+}
+.p0{
+	padding: 0;
+}
+.pCar{
+	font-size: .2rem;
+	color: #aaa;
+}
+.pCollect{
+	color: #aaa;
+}
+.buy{
+	position: fixed;
+	width: 100%;
+	height: 8rem;
+	bottom:0rem;
+	background: #fff;
+	display: none;
+}
+.buyInfo img{
+	width: 2rem;
+	margin-top: -.4rem;
+}
+
+.buyPrice{
+	margin-top: .2rem;
+	color: #f69;
+	font-size: .4rem;
+}
+.sumC{
+	font-size: .27rem;
+	margin:0rem .2rem;
+}
+.close{
+	font-size: .4rem;
+}
+.pColor{
+	font-size: .4rem;
+}
+.buyColor{
+	margin-top: .4rem;
+	padding: .2rem;
+}
+.ccolor{
+	display: inline-block;
+	border-radius: 50px;
+	border:1px solid #aaa;
+	width: 1.4rem;
+	padding: .1rem .3rem;
+	text-align: center;
+	margin-right: .2rem;
+}
+.checkColor{
+	border: 1px solid #f69;
+	color: #f69;
+}
+.buySize{
+	margin-top: .1rem;
+	padding: .2rem;
+}
+.b1{
+	border: 1px solid #f69;
+	border-radius: 50%;
+	width: .7rem;
+	height: .7rem;
+	font-size: .5rem;
+	background: #fff;
+	vertical-align: middle;
+	outline: none;
+}
+.Bnum{
+	font-size: .4rem;
+	padding: 0rem .3rem;
+	line-height: 1rem;
+}
+.buyNum{
+	padding: .2rem;
+}
+.l1{
+	line-height: 1rem;
+}
+.sure{
+	font-size: .4rem;
+	color: #f69;
+	border: 0;
+}

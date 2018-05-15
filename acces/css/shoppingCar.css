@@ -1,0 +1,42 @@
+.car{
+	font-size: 1.5rem;
+	height: 6rem;
+	width: 5rem;
+	margin: 3rem auto;
+	position: relative;
+}
+.car span{
+	color: #ff6600;
+	display: inline-block;
+	margin: 0;
+}
+.car a{
+	text-decoration: underline;
+}
+.car img{
+	position: absolute;
+	right: .1rem;	
+	top: 12rem;
+}
+.Bnav{
+	text-align: center;
+	background: #fff;
+	padding-top: 0.2rem;
+	font-size: .3rem;
+}
+.Bnav img{
+	height: .5rem;
+	margin-bottom: .1rem;
+}
+.tdn:active{
+	text-decoration: none;
+}
+.c3{
+	color: #333;
+}
+.cf{
+	color: #fff;
+}
+.bcf69{
+	background-color: #f69;
+}

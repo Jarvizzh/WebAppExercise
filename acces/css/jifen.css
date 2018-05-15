@@ -1,0 +1,28 @@
+body{
+	background-color: #eee;
+}
+.jifen{
+	height: 3.2rem;
+	text-align: center;
+	background-color: #fff;
+}
+.jifen img{
+	width:2rem;
+	margin-top: 0.8rem; 
+}
+.row{
+	margin: 0;
+	background-color: #fff;
+	padding: .3rem 0rem 0rem .2rem;
+	border-bottom: .01rem solid #eee;
+}
+.jList{
+	margin: .3rem .2rem;
+}
+p{
+	font-size: .28rem;
+}
+.p1{
+	font-size: .25rem;
+	color: #999;
+}
